@@ -1,0 +1,10 @@
+Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems（深度学习在OFDM系统中用于信道估计和信号检测的功能）
+论文题目：Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems
+论文地址： https://ieeexplore.ieee.org/document/8052521/
+github源码地址: https://github.com/haoyye/OFDM_DNN
+利用keras的简化代码: https://github.com/TianLin0509/DNN_detection_via_keras
+
+
+
+论文解读：
+https://zhuyulab.blog.csdn.net/article/details/107748483?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param
